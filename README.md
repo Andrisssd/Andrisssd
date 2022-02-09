@@ -1,11 +1,11 @@
-Hi there 👋, I'm Andris Kulish!
+#Hi there 👋, I'm Andris Kulish!
 Aspiring Software Developer, always open to new challenges and learning opportunities. 🚀
 
 📫 You can reach me on: Andrisssd@gmail.com | https://www.linkedin.com/in/andriskulish
 
-Skills:
+#Skills:
 
-C#/.NET, Ruby
+C#/.NET, PHP
 Relational Databases & SQL
 HTTP & WEB API
 Unit Testing
