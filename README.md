@@ -15,6 +15,7 @@ Design Patterns
 HTML & CSS, TypeScript & NodeJS basics  
 
 **Some of my projects:**  
+  
 [Sudoku (WinForms, SQLite)](https://github.com/Andrisssd/Sudoku)  
 [Insurance App (C#)](https://github.com/Andrisssd/if_risks)  
 [Scooter Rent App (C#)](https://github.com/Andrisssd/scooter_rent)  
